@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GithubResubmission</string>
+    <string name="searchbar_hint">Search\n</string>
+    <string name="username">Username</string>
+    <string name="followers">Followers</string>
+    <string name="name">Name</string>
+    <string name="followings">Following</string>
+    <string name="followers_label">%d Followers</string>
+    <string name="followings_label">%d Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="not_found">User not found</string>
+    <string name="change_theme">Change theme</string>
+    <string name="favorite">favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="welcomeUser">Welcome to Github User</string>
+</resources>
